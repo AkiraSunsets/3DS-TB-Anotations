@@ -1,0 +1,131 @@
+# Aula 0 - 28/01/2026
+
+Capacidade:
+
+1 - Identificar característica de programação mobile
+
+Conhecimento:
+
+- Definição
+- História
+- Característica
+- Arquitetura
+
+Bate-papo 
+
+Plano de curso
+
+Plano de ensino
+
+Definição
+
+Característica
+
+Arquitetura
+
+História
+
+Dart x Flutter
+
+Programação para dispositivos móveis
+
+frontend - 10 horas complementares
+
+internet das coisas
+
+testes de software
+
+projetos de software 
+
+av1:  1 semana e meia
+
+av2: 2 semanas
+
+acaba 29/05
+
+2 listas
+
+2 quizz
+
+2 relatórios
+
+Dart e Flutter 
+
+Dart 
+
+A linguagem dart é reconhecida através do SDK do Flutter
+
+Flutter 
+
+O framework flutter foi criado através da linguagem dart, e nos permite desenvolver aplicativos através de pacotes
+
+Framework: Arquitetura com um conjunto de bibliotecas que auxilia na criaão de aplicativos
+
+Arquitetura e características
+
+Dispositivos móveis
+
+Definição:
+
+- Tamanho → Portátil
+- Sistema intuitivo
+- Sistema visa a economia de energia
+
+Mobile propriamente dito
+
+Exemplos:
+
+celular - mobile propriamente dito
+
+notebook - móvel
+
+tablet - mobile propriamente dito
+
+smartwatch - mobile propriamente dito
+
+Hardware:
+
+Processador → CPU
+
+Placa de vídeo → GPU
+
+Memória RAM
+
+Armazenamento
+
+IA
+
+Características
+
+- Baseado em SOC (System on a chip): gpu, cpu, ia, modem e segurança no mesmo chip
+- Arquitetura arm (baixo consumo de energia)
+- Integração forte entre hardware e software
+- Otimizados para mobilidade, eficiencia térmica e bateria
+
+Resumo
+
+- Diferente de PCS (CPU Separada)
+- Tudo pensado para desempenho com baixo consumo
+
+APPLE:
+
+- Forte em vídeo/foto/edição
+- Bom desempenho com menos ram
+
+Android (Processadores)
+
+Caraterísticas:
+
+- Arquitetura ARM
+- Fabricantes variados
+- Snapdragon (qualcomm)
+- Exynos (Samsung)
+- Dimensity(MediaTek)
+- Maior variedade de preços e desempenho
+- Dependem mais da otimização do fabricante
+
+Atuais:
+
+- Snapdragon 8 elite
+- Exynos 2600
+- Dimensity 9500
