@@ -1,4 +1,4 @@
-Como preparar o ambiente virtual flutter:
+## Como preparar o ambiente virtual flutter:
 
 ### 1º - Baixar o aplicativo Flutter no site Flutter.dev
 
