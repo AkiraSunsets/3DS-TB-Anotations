@@ -1,0 +1,56 @@
+Revisão:
+
+Mobile:
+
+→ sistema interativo
+
+→ portátil 
+
+→ economia de energia
+
+Dart:
+
+Linguagem orientada a objetos
+
+Flutter:
+
+Framework mobile
+
+Processador:
+
+- GPU
+- RAM
+- IA
+
+Câmeras:
+
+- Android com mais “resolução”, porém menor qualidade, porém focado em maior desempenho
+- Apple, com menos “resolução”, porém maior qualidade por escolher melhor seus fornecedores e focar em fotos/vídeos/edição
+
+Evolução dos celulares:
+
+1973 → Motorola (O primeiro celular)
+
+Motorola DynaTAC 8000x (tijolão)
+
+Martin Cooper - Criador do primeiro celular 
+
+Levou 10 anos para ser lançado comercialmente → 1983
+
+Preço supervalorizado 
+
+A média do sálario do Americano era de 500 a 600 doláres mensais
+
+Vendido por quase 4000 doláres
+
+2002 - Popularizou no Brasil.
+
+2007 - Lançou o primeiro Iphone - Steve Jobs.
+
+A technologia touch foi patenteada pela apple
+
+2008 - Lançado a primeira versão do Android.
+
+2017 - IA dentro do processador
+
+System on a Chip - todo o sistema dentro de uma peça só, componente, processador
