@@ -1,0 +1,33 @@
+aperte f1
+insira: flutter new Project
+clique em aplicação
+clique na engrenagem
+clique em Platforms
+deixe somente android e web
+
+
+
+Pasta "lib" é onde vc irá colocar o código das suas telas (arquivos em dart)
+
+pubspeck é o arquivo que vamos colocar as bibliotecas
+  cupertino_icons: ^1.0.8 #biblioteca de icones do android
+ 
+colocar bibliotecas é a partir da linha 36
+
+pra adicionar imagens
+adicione a partir da linha 62
+assets
+
+
+quando vc baixa uma fonte .ttf e coloca dentro da pasta fonts do seu projeto. vc precisa tirar o comentário da linha 77 a 90, exemplo:
+
+fonts:
+- Family : schyler
+  fonts:
+	- assets: fonts/Schyler-Regular.ttf
+
+cada componente é uma classe 
+
+
+statesless -> estática
+stateful -> dinâmica
